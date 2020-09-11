@@ -1,4 +1,6 @@
-ookoo
+<<<<<<< HEAD
+=======
+>>>>>>> 1a2084e... paikallinen konfliktimuutos
 first repository
 juukylkylkyl
 <<<<<<< HEAD
